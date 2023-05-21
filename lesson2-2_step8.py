@@ -29,4 +29,3 @@ browser.execute_script("return arguments[0].scrollIntoView(true);", button)
 button.click()
 
 time.sleep(10)
-

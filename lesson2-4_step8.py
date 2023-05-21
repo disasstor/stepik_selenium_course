@@ -30,5 +30,3 @@ button = browser.find_element(By.CSS_SELECTOR, '[id="solve"]')
 button.click()
 
 time.sleep(10)
-
-# assert "successful" in message.text
